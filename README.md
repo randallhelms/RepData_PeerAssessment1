@@ -1,3 +1,7 @@
+Notes: This repo now includes an RMarkdown format report in both html and pdf formats, and there is also a separate R file which contains all of the code used.
+
+Thanks - Randall Helms
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
